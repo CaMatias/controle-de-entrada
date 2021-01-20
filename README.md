@@ -1,2 +1,3 @@
-# controle-de-entrada
-Sistema feito em projeto na faculdade para controla o acesso a uma palestra
+# control-of-entry
+
+System made in college project to control access to a lecture
